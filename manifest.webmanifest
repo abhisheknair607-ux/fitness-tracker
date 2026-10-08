@@ -1,0 +1,18 @@
+{
+  "name": "8-Week Home Fitness Coach",
+  "short_name": "Fitness Coach",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#07111f",
+  "theme_color": "#07111f",
+  "description": "Mobile-first guided home workout, meal and progress tracker.",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
